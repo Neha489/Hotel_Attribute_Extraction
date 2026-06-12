@@ -1,4 +1,14 @@
 Hotel Attribute Extraction and Tiering Using Machine Learning
+1. Problem Statement
+2. Data Loading
+3. Exploratory Data Analysis
+4. Attribute Extraction
+5. Labeling Strategy
+6. Model Training
+7. Model Evaluation
+8. Tier Assignment
+9. Evidence Extraction
+10. Conclusions
 
 1. Introduction
 
